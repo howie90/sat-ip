@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:0 Das Erste HD
+#EXTINF:0,1. Das Erste HD
 satip://192.168.2.120/?src=1&freq=11494&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,5100,5101,5102,5104
-#EXTINF:0 ZDF HD
+#EXTINF:0,2. ZDF HD
 satip://192.168.2.120/?src=1&freq=11362&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,6100,6110,6120,6130
-#EXTINF:0 RTL Television
+#EXTINF:0,3. RTL Television
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,163,104,44,105
-#EXTINF:0 Sat.1
-satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,255,256,96,32
-#EXTINF:0 RTL 2
+#EXTINF:0,4. RTL 2
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,166,128,46,68
-#EXTINF:0 Pro Sieben
+#EXTINF:0,5. Pro Sieben
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,97,511,512,33
-#EXTINF:0 Vox
-satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,167,136,47,71
-#EXTINF:0 Kabel Eins
+#EXTINF:0,6. Sat.1
+satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,255,256,96,32
+#EXTINF:0,7. Kabel Eins
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,767,768,98,34
-#EXTINF:0 HGTV
-satip://192.168.2.120/?src=1&freq=10921&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,99,1023,1024
-#EXTINF:0 TLC
+#EXTINF:0,8. Vox
+satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,167,136,47,71
+#EXTINF:0,9. Sixx
+satip://192.168.2.120/?src=1&freq=12461&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,767,768,99,35
+#EXTINF:0,10. TLC
 satip://192.168.2.120/?src=1&freq=12460&pol=h&msys=dvbs2&sr=27500&pids=0,17,18,103,1535,1536
+#EXTINF:0,11. HGTV
+satip://192.168.2.120/?src=1&freq=10921&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,99,1023,1024
