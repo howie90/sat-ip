@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,1. Das Erste HD
+#EXTINF:0,ARD
 satip://192.168.2.120/?src=1&freq=11494&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,5100,5101,5102,5104
-#EXTINF:0,2. ZDF HD
+#EXTINF:0,ZDF
 satip://192.168.2.120/?src=1&freq=11362&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,6100,6110,6120,6130
 #EXTINF:0,3. RTL Television
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,163,104,44,105
