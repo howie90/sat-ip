@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:0,ARD
+#EXTINF:0,Das Erste HD
 satip://192.168.2.120/?src=1&freq=11494&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,5100,5101,5102,5104
-#EXTINF:0,ZDF
+#EXTINF:0,ZDF HD
 satip://192.168.2.120/?src=1&freq=11362&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,6100,6110,6120,6130
-#EXTINF:0,3. RTL Television
+#EXTINF:0,RTL Television
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,163,104,44,105
-#EXTINF:0,4. RTL 2
+#EXTINF:0,RTL 2
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,166,128,46,68
-#EXTINF:0,5. Pro Sieben
+#EXTINF:0,Pro Sieben
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,97,511,512,33
-#EXTINF:0,6. Sat.1
+#EXTINF:0,Sat.1
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,255,256,96,32
-#EXTINF:0,7. Kabel Eins
+#EXTINF:0,Kabel Eins
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,767,768,98,34
-#EXTINF:0,8. Vox
+#EXTINF:0,Vox
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,167,136,47,71
-#EXTINF:0,9. Sixx
+#EXTINF:0,Sixx
 satip://192.168.2.120/?src=1&freq=12461&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,767,768,99,35
-#EXTINF:0,10. TLC
+#EXTINF:0,TLC
 satip://192.168.2.120/?src=1&freq=12460&pol=h&msys=dvbs2&sr=27500&pids=0,17,18,103,1535,1536
-#EXTINF:0,11. HGTV
+#EXTINF:0,HGTV
 satip://192.168.2.120/?src=1&freq=10921&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,99,1023,1024
-#EXTINF:0,12. Kabel Eins Doku
+#EXTINF:0,Kabel Eins Doku
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs2&sr=22000&pids=0,17,18,105,2559,2560
-#EXTINF:0,13. RTL Nitro
+#EXTINF:0,RTL Nitro
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,173,146,53,84
-#EXTINF:0,14. Sat 1 Gold
+#EXTINF:0,Sat 1 Gold
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,1279,1280,100,36
-#EXTINF:0,15. Pro7 MAXX
+#EXTINF:0,Pro7 MAXX
 satip://192.168.2.120/?src=1&freq=12545&pol=h&msys=dvbs&sr=22000&fec=56&pids=0,17,18,101,1535,1536
-#EXTINF:0,16. DMAX
+#EXTINF:0,DMAX
 satip://192.168.2.120/?src=1&freq=12480&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,3327,3328,108,44
-#EXTINF:0,17. KIKA HD
+#EXTINF:0,KIKA HD
 satip://192.168.2.120/?src=1&freq=11347&pol=v&msys=dvbs2&sr=22000&pids=0,17,18,6600,6610,6620,6630
-#EXTINF:0,18. Comedy Central
+#EXTINF:0,Comedy Central
 satip://192.168.2.120/?src=1&freq=11973&pol=v&msys=dvbs&sr=27500&fec=34&pids=0,17,18,416,4061,4062,8190
-#EXTINF:0,19. SuperRTL
+#EXTINF:0,SuperRTL
 satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,165,120,45,65
-#EXTINF:0,20. EUROSPORT Deutschland
+#EXTINF:0,EUROSPORT Deutschland
 satip://192.168.2.120/?src=1&freq=12227&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,101,103,280,102
