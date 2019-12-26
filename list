@@ -41,5 +41,7 @@ satip://192.168.2.120/?src=1&freq=12188&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,1
 satip://192.168.2.120/?src=1&freq=12227&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,101,103,280,102
 #EXTINF:0,Sky Sport News HD
 satip://192.168.2.120/?src=1&freq=12304&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,1023,1027,99,0
+#EXTINF:0,Sport1
+satip://192.168.2.120/?src=1&freq=12480&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,1023,1024,103,39
 #EXTINF:0,VOXup
 satip://192.168.2.120/?src=1&freq=12226&pol=h&msys=dvbs&sr=27500&fec=34&pids=0,17,18,601,602,600,603
